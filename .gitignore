@@ -1,4 +1,5 @@
 #Seriously guys, stop commiting this to your git repo!
+eclipse
 *.iml
 *.ipr
 *.iws
